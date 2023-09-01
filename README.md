@@ -1,4 +1,4 @@
-# google_maps
+# Real-Time Location Tracker
 
 A new Flutter project.
 
